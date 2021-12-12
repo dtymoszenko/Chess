@@ -1,3 +1,6 @@
+package chess.board;
+import chess.pieces.Piece;
+
 public abstract class Tile {
 
     int tileLocation;
